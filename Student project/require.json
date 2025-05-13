@@ -1,0 +1,39 @@
+[
+    {
+        "id": "list1",
+        "title": "To Do",
+        "cards": [
+            {
+                "id": "card1",
+                "title": "Task 1",
+                "due-date": "2021-09-12",
+                "description": "This is a description for Task 1"
+            },
+            {
+                "id": "card2",
+                "title": "Task 2",
+                "due-date": "2021-09-12",
+                "description": "This is a description for Task 2"
+            }
+        ]
+    },
+    {
+        "id": "list2",
+        "title": "In Progress",
+        "cards": [
+            {
+                "id": "card3",
+                "title": "Task 3",
+                "description": "This is a description for Task 3"
+            },
+            {
+                "id": "card4",
+                "title": "Task 4",
+                "description": "This is a description for Task 4"
+            }
+        ]
+    },
+    {
+        
+    }
+]
